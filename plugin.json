@@ -1,0 +1,9 @@
+{
+  "name": "Hybrid Search",
+  "description": "Plugin that enable hybrid search on Qdrant vector database",
+  "author_name": "Team Sviluppo",
+  "author_url": "https://www.teamsviluppo.it/",
+  "plugin_url": "https://github.com/team-sviluppo/cc_hybrid_search",
+  "tags": "rabbithole, qdrant, vector database, hybrid search",
+  "version": "1.0.0"
+}
