@@ -1,10 +1,10 @@
 # Hybrid Search
 
-**Hybrid Search** is a plugin that enable hybrid search on qdrant vector database for decalrative items.
+**Hybrid Search** is a plugin that enable hybrid search on qdrant vector database for declarative items.
 
 ## ✨ Key Features
 
-- **⭐ No data loss**: The plugin create an additional collection (decalrative_hybrid) that work in parallel with orginal decalrative collection. Enabling / disabling plugin not cause any data loss on the orginal collection.
+- **⭐ No data loss**: The plugin create an additional collection (declarative_hybrid) that work in parallel with orginal declarative collection. Enabling / disabling plugin not cause any data loss on the orginal collection.
 - **🌍 Multilingual**: Use Qdrant/bm25 for sparse emebddings, that support more languages (not only english)
 - **⚙️ Configurable settings**: Set the number (k) of items and threshold to perform data retrivial
 
