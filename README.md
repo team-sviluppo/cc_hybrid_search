@@ -13,6 +13,7 @@
 - Install plugin
 - Enable plugin
 - Restart CAT to create the hybrid collection
+- Uplaod document to populate original declarative and new hybrid collections
 
 ## ⚡ Commands
 
